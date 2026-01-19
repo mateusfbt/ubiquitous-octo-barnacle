@@ -1,2 +1,1 @@
-Treino git branch nova
-novo commit na branch nova
+Preparando o arquivo para merge
