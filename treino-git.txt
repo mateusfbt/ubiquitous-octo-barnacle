@@ -1,5 +1,1 @@
-Treinando git
-Treinando git 2
-Treinando git 3
-Treinando git 4
-Treinando git 5
+Treino git branch nova
